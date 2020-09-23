@@ -18,4 +18,4 @@ A few things about me
 
 [GITHUB](https://github.com/DIVYASREE345)
 
-[E-MAIL](divya220sree@gmail.com)
+[E-MAIL](mailto:divya220sree@gmail.com)
